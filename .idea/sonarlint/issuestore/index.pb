@@ -1,0 +1,25 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+d
+4src/main/java/com/hil/basiccrud/DataApplication.java,e/a/eaaf909a7a699782ccf7f9fd2524f6d99f82b9a6
+p
+@src/main/java/com/hil/basiccrud/controllers/OrderController.java,5/e/5eb0f5f6dcacea0b56452b8b34fd7a355e8c5986
+b
+2src/main/java/com/hil/basiccrud/config/Config.java,5/f/5f0a30d244890fb8cbdcc58bd0460c568d97ccd3
+m
+=src/main/java/com/hil/basiccrud/services/AbstractService.java,6/2/629e8e48ebf43318d7791e2ac5b07ff6231a5f64
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+s
+Csrc/main/java/com/hil/basiccrud/controllers/AbstractController.java,8/f/8f72c2dcc5ddc9b7d0ffc77d28d13ff9f3a06839
+j
+:src/main/java/com/hil/basiccrud/services/OrderService.java,c/6/c697abed37f1eda3ec54f0ba2f168a3ebf1ac22d
+l
+<src/main/java/com/hil/basiccrud/services/ProductService.java,9/3/93ae904de897f063a247d30df9810c8b8e7bbde8
+r
+Bsrc/main/java/com/hil/basiccrud/controllers/ProductController.java,4/7/47886a5b9f13038e20a44872891cc1182e94e9ea
+j
+:src/main/java/com/hil/basiccrud/entity/dto/ProductDto.java,8/9/899e3601725e9f99f4855d330815ffd99c65d7b6
+V
+&src/test/java/TestProductApiLocal.java,b/4/b499fbd252c37b43f332cf66a7693d04bc0294dc
